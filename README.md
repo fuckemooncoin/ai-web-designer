@@ -26,6 +26,9 @@ To use AI Web Designer, follow the steps below:
 
 Clone the project from the GitHub repository.
 Run npm install to install the dependencies.
+
 Run npm start to start the development server.
+
 Access http://localhost:3000 in your web browser.
+
 Once you have the tool up and running, you can start building your web page by askin the AI using the sidebar's chat. You can then customize the HTML, CSS, and JS code using the integrated code editor.
